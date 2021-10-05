@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.42d46fee.chunk.js",
-    "main.js.map": "/static/js/main.42d46fee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.10d0f56a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.10d0f56a.js.map",
-    "static/js/2.66cee785.chunk.js": "/static/js/2.66cee785.chunk.js",
-    "static/js/2.66cee785.chunk.js.map": "/static/js/2.66cee785.chunk.js.map",
-    "static/js/3.ad4a0098.chunk.js": "/static/js/3.ad4a0098.chunk.js",
-    "static/js/3.ad4a0098.chunk.js.map": "/static/js/3.ad4a0098.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.66cee785.chunk.js.LICENSE.txt": "/static/js/2.66cee785.chunk.js.LICENSE.txt",
-    "static/media/cover-image.533ae8f6.jpg": "/static/media/cover-image.533ae8f6.jpg"
+    "main.css": "/LakynFelix/Photo-Port.git/static/css/main.4278ce57.chunk.css",
+    "main.js": "/LakynFelix/Photo-Port.git/static/js/main.8ad81447.chunk.js",
+    "main.js.map": "/LakynFelix/Photo-Port.git/static/js/main.8ad81447.chunk.js.map",
+    "runtime-main.js": "/LakynFelix/Photo-Port.git/static/js/runtime-main.a8a85c85.js",
+    "runtime-main.js.map": "/LakynFelix/Photo-Port.git/static/js/runtime-main.a8a85c85.js.map",
+    "static/js/2.05819278.chunk.js": "/LakynFelix/Photo-Port.git/static/js/2.05819278.chunk.js",
+    "static/js/2.05819278.chunk.js.map": "/LakynFelix/Photo-Port.git/static/js/2.05819278.chunk.js.map",
+    "index.html": "/LakynFelix/Photo-Port.git/index.html",
+    "precache-manifest.cf5a0daffe8c0abe4069e72c9f18dd1e.js": "/LakynFelix/Photo-Port.git/precache-manifest.cf5a0daffe8c0abe4069e72c9f18dd1e.js",
+    "service-worker.js": "/LakynFelix/Photo-Port.git/service-worker.js",
+    "static/css/main.4278ce57.chunk.css.map": "/LakynFelix/Photo-Port.git/static/css/main.4278ce57.chunk.css.map",
+    "static/js/2.05819278.chunk.js.LICENSE.txt": "/LakynFelix/Photo-Port.git/static/js/2.05819278.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/LakynFelix/Photo-Port.git/static/media/0.efdfd6a4.jpg",
+    "static/media/1.jpg": "/LakynFelix/Photo-Port.git/static/media/1.e05d88b5.jpg",
+    "static/media/2.jpg": "/LakynFelix/Photo-Port.git/static/media/2.efb308ab.jpg",
+    "static/media/3.jpg": "/LakynFelix/Photo-Port.git/static/media/3.ff98319a.jpg",
+    "static/media/4.jpg": "/LakynFelix/Photo-Port.git/static/media/4.ed8f654e.jpg",
+    "static/media/cover-image.jpg": "/LakynFelix/Photo-Port.git/static/media/cover-image.6a2b7a16.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.10d0f56a.js",
-    "static/js/2.66cee785.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.42d46fee.chunk.js"
+    "static/js/runtime-main.a8a85c85.js",
+    "static/js/2.05819278.chunk.js",
+    "static/css/main.4278ce57.chunk.css",
+    "static/js/main.8ad81447.chunk.js"
   ]
 }
